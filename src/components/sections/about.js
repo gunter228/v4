@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript', 'Python', 'HTML', 'PHP', 'Node.js', 'C++'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -145,16 +145,7 @@ const About = () => {
               В настоящее время я сосредоточен на создании доступных, инклюзивных продуктов и цифрового опыта на <a href="https://tech.weissx.host/">Tech</a> для самых разных клиентов.
             </p>
 
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
-            </p>
-
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Вот несколько технологий, с которыми я работал в последнее время:</p>
           </div>
 
           <ul className="skills-list">
