@@ -65,11 +65,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        Я разработчик-инноватор, специализирующийся на создании интерактивных решений для дискорд-ботов и веб-разработки. В данный момент я полностью погружен в разработку амбициозного {' '}, который изменит правила игры в мире технологий.
+        <a href="https://tech.weissx.host/" target="_blank" rel="noreferrer">
+          проекта
         </a>
         .
       </p>
