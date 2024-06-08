@@ -266,8 +266,8 @@ const Menu = () => {
               </ol>
             )}
 
-            <a href="/resume.pdf" className="resume-link">
-              Resume
+            <a href="https://tech.weissx.host/" className="resume-link">
+              Tech V2.0
             </a>
           </nav>
         </StyledSidebar>
